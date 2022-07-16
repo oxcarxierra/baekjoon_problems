@@ -11,7 +11,7 @@ for i in range(1,N):
   if time[i][0] >= end_time:
     cnt += 1
     end_time=time[i][1]
-print(cnt)
+# print(cnt)
 # def greedy():
 #   global cnt, time
 #   time_min = time[0]
